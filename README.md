@@ -1,5 +1,5 @@
 # Smart_arch_Ai
-:->$$
+
 from flask import Flask, request, render_template_string
 import threading
 import requests
